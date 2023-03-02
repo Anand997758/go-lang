@@ -1,0 +1,41 @@
+go is a combination of python and c and c++
+it is advanced of old languages
+total concepts:
+1. concurency 
+It means we can use concetencly use 
+variable types:
+-----------------
+1. int--- only numbers 1,2,3,5,6 
+2. float----
+string ------ string means nothing but charector, a='anand',b= 'ball, c='call'
+slice------- a list of seporater 
+map
+boolean 
+interfloat
+array
+
+packages-2
+===========
+1. standard library
+2. other packages
+
+1. standard library
+======================
+"fmt"
+"encoded/json"
+"achive/zip"
+"os"
+
+2. other packages
+=================--- reuse packages
+
+variables:
+var a int=10
+var a int
+a: = 1
+a: =
+
+
+
+
+
